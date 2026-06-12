@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Loïs 👋</h1>
 
 <p align="center">
-  🛡️ Étudiant en <strong>cybersécurité @ Ynov Toulouse</strong> · diplômé BTS SIO<br/>
+  🛡️ Étudiant en <strong>cybersécurité M1 @ Ynov Toulouse</strong> · diplômé BTS SIO<br/>
   Je développe des applis web for fun — React, Node — et je bricole du DevOps à côté.
 </p>
 
