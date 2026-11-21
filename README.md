@@ -16,9 +16,10 @@
 
 ### Ce que je fais
 
-- **Sécurité du SI** : audit, cartographie, gestion de flotte (MDM), conformité RGPD
-- **Automatisation & outils** : scripts, intégrations API, dashboards, agents IA
-- **DevOps** : conteneurisation, CI/CD, supervision
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ce-que-je-fais-dark.svg">
+  <img src="assets/ce-que-je-fais-light.svg" alt="Sécurité du SI : audit, cartographie, MDM, conformité RGPD · Automatisation &amp; outils : scripts, intégrations API, dashboards, agents IA · DevOps : conteneurisation, CI/CD, supervision" width="100%">
+</picture>
 
 ### En ce moment
 

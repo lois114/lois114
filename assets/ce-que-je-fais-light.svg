@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Ce que je fais : Sécurité du SI, Automatisation et outils, DevOps">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="287" height="139" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<g transform="translate(20,20)" fill="none" stroke="#0a7ea4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6z"/><path d="m9 12 2 2 4-4"/></g>
+<text x="20" y="72" font-size="15" font-weight="600" fill="#1f2328">Sécurité du SI</text>
+<text x="20" y="98" font-size="13" fill="#59636e">Audit, cartographie, gestion de</text>
+<text x="20" y="117" font-size="13" fill="#59636e">flotte (MDM), conformité RGPD</text>
+<rect x="306.5" y="0.5" width="287" height="139" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<g transform="translate(326,20)" fill="none" stroke="#0a7ea4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.5 2.5-2.4-.6-.6-2.4z"/></g>
+<text x="326" y="72" font-size="15" font-weight="600" fill="#1f2328">Automatisation &amp; outils</text>
+<text x="326" y="98" font-size="13" fill="#59636e">Scripts, intégrations API,</text>
+<text x="326" y="117" font-size="13" fill="#59636e">dashboards, agents IA</text>
+<rect x="612.5" y="0.5" width="287" height="139" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<g transform="translate(632,20)" fill="none" stroke="#0a7ea4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="6" rx="1.5"/><rect x="3" y="14" width="18" height="6" rx="1.5"/><path d="M7 7h.01M7 17h.01"/></g>
+<text x="632" y="72" font-size="15" font-weight="600" fill="#1f2328">DevOps</text>
+<text x="632" y="98" font-size="13" fill="#59636e">Conteneurisation, CI/CD,</text>
+<text x="632" y="117" font-size="13" fill="#59636e">supervision</text>
+</svg>
