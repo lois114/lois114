@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banniere-dark.svg">
-  <img src="assets/banniere-light.svg" alt="Loïs Beaujard · Mastère Expert Cybersécurité @ Ynov · diplômé BTS SIO. Côté cyber : audit, cartographie du SI, conformité. À côté : outils web et automatisations (React, Node, Next.js), DevOps (Docker, CI/CD)." width="100%">
+  <img src="assets/banniere-light.svg" alt="Loïs Beaujard · Mastère Expert Cybersécurité @ Ynov · diplômé bachelor cybersécurité. Côté cyber : audit, cartographie du SI, conformité. À côté : outils web et automatisations (React, Node, Next.js), DevOps (Docker, CI/CD)." width="100%">
 </picture>
 
 <p align="center">
