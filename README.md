@@ -1,15 +1,13 @@
-<h1 align="center">Loïs Beaujard</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banniere-dark.svg">
+  <img src="assets/banniere-light.svg" alt="Loïs Beaujard · Mastère Expert Cybersécurité @ Ynov · diplômé BTS SIO. Côté cyber : audit, cartographie du SI, conformité. À côté : outils web et automatisations (React, Node, Next.js), DevOps (Docker, CI/CD)." width="100%">
+</picture>
 
 <p align="center">
-  <strong>Mastère Expert Cybersécurité @ Ynov · diplômé BTS SIO</strong><br/>
-  Côté cyber : audit, cartographie du SI, conformité.<br/>
-  À côté, je développe des outils web et des automatisations (React, Node, Next.js) et je fais du DevOps (Docker, CI/CD).
-</p>
-
-<p align="center">
-  <a href="mailto:loisbeaujard@gmail.com"><img src="https://img.shields.io/badge/Email-loisbeaujard%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/lo%C3%AFs-beaujard-2a4251313/"><img src="https://img.shields.io/badge/LinkedIn-Loïs_Beaujard-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Freelance-disponible-2ea043?style=flat-square" alt="Freelance disponible"/>
+  <a href="mailto:loisbeaujard@gmail.com"><img src="https://img.shields.io/badge/Email-loisbeaujard%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/lo%C3%AFs-beaujard-2a4251313/"><img src="https://img.shields.io/badge/LinkedIn-Loïs_Beaujard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Freelance-disponible-2EA043?style=for-the-badge" alt="Freelance disponible"/>
+  <img src="https://img.shields.io/badge/Recherche-stage%20%2F%20alternance%20cyber-8957E5?style=for-the-badge" alt="Recherche stage ou alternance cyber"/>
 </p>
 
 ---

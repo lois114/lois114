@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Loïs Beaujard, Mastère Expert Cybersécurité chez Ynov, diplômé BTS SIO">
+<style>.m{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="899" height="249" rx="10" fill="#010409" stroke="#30363d"/>
+<circle cx="24" cy="22" r="5" fill="#ff5f57"/><circle cx="42" cy="22" r="5" fill="#febc2e"/><circle cx="60" cy="22" r="5" fill="#28c840"/>
+<line x1="0.5" y1="42" x2="899.5" y2="42" stroke="#30363d"/>
+<text class="m" x="32" y="76" font-size="15"><tspan fill="#3fb950">loïs@ynov</tspan><tspan fill="#9198a1">:~$</tspan><tspan fill="#c9d1d9"> whoami</tspan></text>
+<text class="s" x="32" y="122" font-size="38" font-weight="700" fill="#e6edf3">Loïs Beaujard</text>
+<text class="m" x="32" y="152" font-size="15" fill="#58c4dc">Mastère Expert Cybersécurité @ Ynov · diplômé BTS SIO</text>
+<text class="s" x="32" y="190" font-size="15" fill="#c9d1d9"><tspan fill="#58c4dc" font-weight="600">› Côté cyber :</tspan> audit, cartographie du SI, conformité.</text>
+<text class="s" x="32" y="218" font-size="15" fill="#c9d1d9"><tspan fill="#3fb950" font-weight="600">› À côté :</tspan> outils web et automatisations (React, Node, Next.js), DevOps (Docker, CI/CD).</text>
+</svg>
